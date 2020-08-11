@@ -1,6 +1,6 @@
 # Deep-Fake
 
-### Full video: [Deep Fakes]("https://www.linkedin.com/posts/karan-owalekar_delaunay-python-deepfakes-activity-6667342958678958080-JL2n")
+#### Full video: [Deep Fakes](https://www.linkedin.com/posts/karan-owalekar_delaunay-python-deepfakes-activity-6667342958678958080-JL2n)
 
 > Here there are two files, one which takes 2 images a input and applies first image on top of second and second file where it takes 1 image and applies on the face of person captured from the webcam.
 
